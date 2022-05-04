@@ -8,7 +8,7 @@
 
 // base class
 class Person {
-    constructor(fname, lname, birthdate) {
+    constructor(fname, lname) {
         this.fname = fname;
         this.lname = lname;
     }
